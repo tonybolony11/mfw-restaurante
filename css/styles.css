@@ -106,11 +106,11 @@ background-image: url("../img/farm-2.jpg");
 }
 /* revie sec */
 #review {
-    background-image: url(../img/food_review.jpg);
+    background-image: url("../img/food_review.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
-#reviw .center {
+#review .center {
     margin: 0 auto;
     float: none;
     background-color: rgba(20, 20, 20, .6);
