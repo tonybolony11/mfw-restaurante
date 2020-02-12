@@ -220,3 +220,14 @@ address {
     content: '*';
     font-size: 1.2rem;
 }
+@media (max-width: 1230px) {
+    #story_year {
+      font-size: 10em;
+  }
+}
+
+@media (max-width: 260px) {
+  #story_year {
+      font-size: 5em;
+  }
+}
